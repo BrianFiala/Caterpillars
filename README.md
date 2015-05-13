@@ -1,2 +1,2 @@
 # Caterpillars
-Java1C Caterpillars game
+Java 1C Caterpillars game
