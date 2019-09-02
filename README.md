@@ -1,2 +1,2 @@
 # Caterpillars
-Java 1C Caterpillars game
+Caterpillars game implemented in Java.
